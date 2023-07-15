@@ -3,8 +3,5 @@ name_taski: https://skinder.hopto.org/;
 name_kittygram: https://yourkittygram.ddns.net/;
 login: admin;
 password: admin123123;
-
-или; 
-
 login: admin;
 password: admin123;
