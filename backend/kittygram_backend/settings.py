@@ -1,6 +1,5 @@
 import os
 from pathlib import Path
-from .secret import secret_key
 import os
 
 from dotenv import load_dotenv
